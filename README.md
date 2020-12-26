@@ -1,3 +1,3 @@
 # hello_world_sample
 
-This is a sample for repo.
+This is a sample repo.
